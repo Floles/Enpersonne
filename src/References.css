@@ -1,0 +1,13 @@
+.bg_refs{
+    background-color: rgb(255, 255, 255);
+    height: 90vh;
+}
+
+.refs_color {
+    margin: 80px 0 50px 0;
+    text-align: center;
+}
+
+.refs {
+    margin-left: 25px;
+}

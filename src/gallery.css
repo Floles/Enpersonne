@@ -1,0 +1,100 @@
+.pos {
+    margin: 0;
+    padding: 0;
+}
+
+.gl {
+    display: inline-block;
+    opacity: 1;
+    padding: 0;
+}
+
+.gallery_first {
+    height: 31.79vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.gallery_first:hover a {
+    visibility: visible;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+
+    .gallery_children {
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-color: black;
+        background-position: center;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease-in;
+    }
+
+    .gallery_children:hover {
+        transform: scale(1.15);
+        opacity: 0.8;
+    }
+
+        .gallery_a {
+            text-align: center;
+            font-size: 2em;
+            font-weight: 700;
+            text-shadow: 0 1px 3px rgba(233, 233, 233, 0.85);
+            text-transform: uppercase;
+            position: absolute;
+            padding: 31%;
+            visibility: hidden;
+        }
+
+
+
+/* BACKGROUND IMAGE */
+.bg_1 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/madeko.jpg");
+}
+.bg_2 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/Chronopost.jpg");
+}
+.bg_3 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/RAC.jpg");
+}
+.bg_4 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/brand-content.jpg");
+}
+.bg_5 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/nextiraOne.jpg");
+}
+.bg_6 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/veolia.jpg");
+}
+.bg_7 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/Epson.jpg");
+}
+.bg_8 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/toshiba.jpg");
+}
+.bg_9 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/midem.jpg");
+}
+.bg_10 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/franchise-expo.jpg");
+}
+.bg_11 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/technicolor.jpg");
+}
+.bg_12 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/jardins-arcadie.jpg");
+}
+.bg_13 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/apcma.jpg");
+}
+.bg_14 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/cipav.jpg");
+}
+.bg_15 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/usb.jpg");
+}
+.bg_16 {
+    background-image: url("http://localhost/testReactWordpress/RW/wordpress/wp-content/uploads/2018/04/Chronopost.jpg");
+}

@@ -1,0 +1,6 @@
+.Cover {
+  background-image: url('./images/bg_EP360.jpg');
+  background-size: cover;
+  background-position: 50% 65%;
+  background-attachment: fixed;
+}

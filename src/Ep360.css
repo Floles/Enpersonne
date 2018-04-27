@@ -1,0 +1,23 @@
+.bg_Ep360 {
+    background-color: rgb(253, 253, 253);
+}
+
+.logo360 {
+    margin-top: 80px;
+    box-shadow: 0 3px 8px rgb(150, 150, 150);
+}
+
+.logo360:hover {
+    opacity: 0.8;
+}
+
+.color_ep360 h1 {
+    margin-top: 80px;
+}
+
+.color_ep360 h2 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
